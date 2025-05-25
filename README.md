@@ -1,2 +1,2 @@
-# python_opengl
-Some Examples of Python OpenGL
+# Python OpenGL
+Some Examples of [Python OpenGL](https://pypi.org/project/PyOpenGL/).
